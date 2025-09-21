@@ -5,15 +5,14 @@
 Meet Qwen3-0.6B, our new chatty friend. 
 
 In this project, we will instantiate an instance of this model and see how the vocab.txt is set up. We will also create our own BPE tokenizer.
-
 We have a set of prompts and a set of tools, and our model needs to reply with the correct tool to the prompt in JSON format. This is the challenge.
-
 Click on the "Run in Colab" button to see the notebook in action. Choose the T4 GPU to speed up the response generation. 
 
 The program will output the results to a JSON file in an output folder (look on the left in files and you will find it).
 
+The notebook is included in the repo too.
 
-## More to come
+More docs to come... about the code.
 
 ## Resources
 https://huggingface.co/Qwen/Qwen3-0.6B  

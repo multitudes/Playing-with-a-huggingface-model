@@ -31,5 +31,5 @@ More docs to come... about the code.
 
 ## Resources
 https://huggingface.co/Qwen/Qwen3-0.6B  
-If you need the merges.txt files:
+If you need the merges.txt files:  
 https://huggingface.co/Qwen/Qwen3-0.6B/tree/main  
